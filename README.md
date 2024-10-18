@@ -1,2 +1,2 @@
 # SQL-Projects
-Portfolio projects with respect to Data Analysis using MySQL
+Projects with respect to Data Analysis using MySQL
